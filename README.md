@@ -10,7 +10,7 @@ A backend server created with Nodejs
 </ul>
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/25967495/142289484-a20da0ae-dedd-49dc-befd-38513ca6b95e.JPG" width="250" height="500">
+<img src="https://user-images.githubusercontent.com/25967495/142289484-a20da0ae-dedd-49dc-befd-38513ca6b95e.JPG" width="500" height="250">
 </p>
 
 <h2>Get packages</h2>
