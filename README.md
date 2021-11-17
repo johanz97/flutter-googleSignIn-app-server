@@ -18,5 +18,5 @@ A backend server created with Nodejs
 
 <h2>Run App</h2>
 <ul>
-  <li type="circle"><h3>node index.js</h3></li>
+  <li type="circle"><h3>npm start</h3></li>
 </ul>
