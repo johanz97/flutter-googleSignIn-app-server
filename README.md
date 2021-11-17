@@ -9,9 +9,7 @@ A backend server created with Nodejs
   <li type="circle"><h3>VS Code</h3></li>
 </ul>
 
-<p align="center">
 ![Servidor](https://user-images.githubusercontent.com/25967495/142289677-1dae1627-a4cd-4b67-9d7a-eb2cb40f0b69.JPG)
-</p>
 
 <h2>Get packages</h2>
 <ul>
